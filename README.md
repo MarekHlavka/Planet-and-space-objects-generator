@@ -51,6 +51,7 @@ Currently supported objects:
 
 Planned features:
 - Real-life solar systems with gravity, orbits etc.
+- More objects
 
 
 Feel free to submit any issues or ideas!
