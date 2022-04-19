@@ -9,20 +9,20 @@ Download `Planets and Space objects generator.zip` and simply install it in Blen
 ### Adding object
 You can add object simply by seslectit it id Add menu (PaSOG submenu) or simply by selecting specific object after pressing Shift + A.
 <p align="center">
-    <img src="./img/ui_add.png" height="250px">
+    <img src="./img/ui_add.png" height="500px">
 </p>    
 
 ### Modify object
 After selecting object, many object properties can be modify in operator panel, such as Level of detail, nosie, craters.
 
 <p align="center">
-    <img src="./img/ui_operator.png" height="250px">
+    <img src="./img/ui_operator.PNG" height="500px">
 </p>
 
 ### Object surface
 In side panel, object surface and in many cases even shape can be modified. You can modify surface simple objects, like planets and moons, and also shape of more complex objects like galaxies and black holes.
 <p align="center">
-    <img src="./img/ui_panel.png" height="250px">
+    <img src="./img/ui_panel.PNG" height="500px">
 </p>
 
 
