@@ -25,8 +25,6 @@ In side panel, object surface and in many cases even shape can be modified. You 
     <img src="./img/ui_panel.PNG" height="500px">
 </p>
 
-
-
 ## Examples
 <p align="center">
     <img src="./Examples/general.png" height="250px">
@@ -38,3 +36,28 @@ In side panel, object surface and in many cases even shape can be modified. You 
     <img src="./Examples/galaxy.png" height="250px">
     <img src="./Examples/nebula.png" height="250px">
 </p>
+
+## Status
+Currently supported objects:
+- Planet
+- Moon
+- Star
+- Asteroid
+- Asteroid field
+- Galaxy
+- Gas giant
+- Black Hole
+- Nebula
+
+Planned features:
+- Real-life solar systems with gravity, orbits etc.
+
+
+Feel free to submit any issues or ideas!
+
+## Author
+Marek Hlávka - Bachelor Thesis
+
+Faculty of information technology BUT
+
+Version 1.0
