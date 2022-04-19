@@ -5,6 +5,28 @@ This add-on is for simple creation of astronomical objects. Generate planets, mo
 
 Download `Planets and Space objects generator.zip` and simply install it in Blender User interface (Edit -> Preferences -> Addon -> Install -> Select downloaded Zip file). Or alternatively extract folder `Planets and Space objects generator` from downloaded zip and move it directly into folder for Blender scripts/addons.
 
+## Usage
+### Adding object
+You can add object simply by seslectit it id Add menu (PaSOG submenu) or simply by selecting specific object after pressing Shift + A.
+<p align="center">
+    <img src="./img/ui_add.png" height="250px">
+</p>    
+
+### Modify object
+After selecting object, many object properties can be modify in operator panel, such as Level of detail, nosie, craters.
+
+<p align="center">
+    <img src="./img/ui_operator.png" height="250px">
+</p>
+
+### Object surface
+In side panel, object surface and in many cases even shape can be modified. You can modify surface simple objects, like planets and moons, and also shape of more complex objects like galaxies and black holes.
+<p align="center">
+    <img src="./img/ui_panel.png" height="250px">
+</p>
+
+
+
 ## Examples
 <p align="center">
     <img src="./Examples/general.png" height="250px">
