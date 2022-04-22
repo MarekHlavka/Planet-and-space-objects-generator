@@ -56,7 +56,7 @@ Planned features:
 
 Feel free to submit any issues or ideas!
 
-Example video: <https://youtu.be/c0Qs0dUp8_I>
+Example video: <https://youtu.be/cb59BML3LDA>
 
 ## Author
 Marek Hlávka - Bachelor Thesis
